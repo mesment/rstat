@@ -1,0 +1,2 @@
+# rstat
+ssh server stat
